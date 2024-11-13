@@ -1,0 +1,24 @@
+employeeNumber,lastName,firstName,email,jobTitle,officeCity,officeCountry
+1002,Murphy,Diane,dmurphy@classicmodelcars.com,President,"San Francisco",USA
+1056,Patterson,Mary,mpatterso@classicmodelcars.com,"VP Sales","San Francisco",USA
+1076,Firrelli,Jeff,jfirrelli@classicmodelcars.com,"VP Marketing","San Francisco",USA
+1088,Patterson,William,wpatterson@classicmodelcars.com,"Sales Manager (APAC)",Sydney,Australia
+1102,Bondur,Gerard,gbondur@classicmodelcars.com,"Sale Manager (EMEA)",Paris,France
+1143,Bow,Anthony,abow@classicmodelcars.com,"Sales Manager (NA)","San Francisco",USA
+1165,Jennings,Leslie,ljennings@classicmodelcars.com,"Sales Rep","San Francisco",USA
+1166,Thompson,Leslie,lthompson@classicmodelcars.com,"Sales Rep","San Francisco",USA
+1188,Firrelli,Julie,jfirrelli@classicmodelcars.com,"Sales Rep",Boston,USA
+1216,Patterson,Steve,spatterson@classicmodelcars.com,"Sales Rep",Boston,USA
+1286,Tseng,"Foon Yue",ftseng@classicmodelcars.com,"Sales Rep",NYC,USA
+1323,Vanauf,George,gvanauf@classicmodelcars.com,"Sales Rep",NYC,USA
+1337,Bondur,Loui,lbondur@classicmodelcars.com,"Sales Rep",Paris,France
+1370,Hernandez,Gerard,ghernande@classicmodelcars.com,"Sales Rep",Paris,France
+1401,Castillo,Pamela,pcastillo@classicmodelcars.com,"Sales Rep",Paris,France
+1501,Bott,Larry,lbott@classicmodelcars.com,"Sales Rep",London,UK
+1504,Jones,Barry,bjones@classicmodelcars.com,"Sales Rep",London,UK
+1611,Fixter,Andy,afixter@classicmodelcars.com,"Sales Rep",Sydney,Australia
+1612,Marsh,Peter,pmarsh@classicmodelcars.com,"Sales Rep",Sydney,Australia
+1619,King,Tom,tking@classicmodelcars.com,"Sales Rep",Sydney,Australia
+1621,Nishi,Mami,mnishi@classicmodelcars.com,"Sales Rep",Tokyo,Japan
+1625,Kato,Yoshimi,ykato@classicmodelcars.com,"Sales Rep",Tokyo,Japan
+1702,Gerard,Martin,mgerard@classicmodelcars.com,"Sales Rep",Paris,France
